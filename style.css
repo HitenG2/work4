@@ -20,3 +20,8 @@ section {
 .converter__input {
   text-align: center;
 }
+.converter__valid-symbols-recom {
+  text-align: left;
+  color: red;
+  font-size: 14px;
+}
